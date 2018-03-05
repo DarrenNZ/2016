@@ -1,0 +1,24 @@
+Questions for reflection.
+=========================
+
+
+1. Did you do any online practice questions this week? If yes, which topics did
+you look at and why?
+
+yes i did afew with loops etc, tho as i am away for work i decided to focus mainly on the core content due to being away.
+
+2. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time? 
+
+I had lots of errors when trying to use the .equals method for some reason, i switched to using .contains which seamed to work better, other wise the 
+logic had me abit confused for awhile doing the validator completion task.
+
+3. What is one thing that you did in this assignment that is similar to previous
+ones? Was it easier this time? How did you approach doing it?
+
+I gues asking for the user to input the information ie .askString method was similar to the doubles we were using last week. I found working with objects fairly easy in
+the second half of the assi tho, i couldnt figure out how to insert the pictures correctly. I know they were showen how to in the Tut but i wasnt able to attend due to work.
+
+4. If you have any other thoughts about the assignment please write them here.
+Really enjoyable, it would be great if they could touch on the images thing in the lectures if lots of people had a similar issue. :)

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Flower(double,\ double)
+comment0.text=\ Construct\ a\ new\ Flower\ object;\ parameters\ are\ the\ initial\ position\ of\ the\ flower.\r\nMakes\ a\ new\ Flower\ and\ draws\ it.
+comment1.params=
+comment1.target=void\ oneFlower()
+comment2.params=step
+comment2.target=void\ grow(double)
+comment2.text=\ Makes\ the\ flower\ taller.\r\n\ \ \ \ \ \ \ \ It\ first\ erases\ the\ flower,\ then\r\n\ \ \ \ \ \ \ \ changes\ the\ height\ by\ the\ specified\ amount,\ and\ then\r\nredraws\ the\ flower\ .
+comment3.params=
+comment3.target=void\ bloom()
+comment3.text=\ Makes\ the\ flower\ bloom,\ \r\n\ \ \ \ \ \ \ \ It\ first\ erases\ the\ flower,\ then\r\n\ \ \ \ \ \ \ \ changes\ the\ state,\ and\ then\ draws\ the\ flower\ again.\r\n
+comment4.params=
+comment4.target=void\ draw()
+comment4.text=\ Draws\ the\ flower\ on\ the\ graphics\ pane.\r\n\ \ \ \ \ \ \ \ It\ needs\ to\ draw\ a\ narrow\ solid\ green\ rectangle\ of\ the\ right\ height\r\n\ \ \ \ \ \ \ \ from\ the\ base\ of\ the\ flower.\ Then,\ depending\ on\ whether\ the\ stage\ of\ the\ flower\r\n\ \ \ \ \ \ \ \ is\ "Bud",\ \ "Bloom",\ or\ "Picked",\ it\ should\ draw\ a\ small\ green\ circle,\ or\ a\ big\r\n\ \ \ \ \ \ \ \ red\ circle,\ or\ no\ circle\ at\ all.\r\n
+comment5.params=
+comment5.target=void\ erase()
+comment5.text=\ Erases\ the\ flower,\ so\ that\ it\ can\ be\ redrawn.\r\n
+numComments=6
