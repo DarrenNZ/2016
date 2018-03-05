@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=x\ y\ x2\ y2\ col
+comment0.target=Dot(double,\ double,\ double,\ double,\ java.awt.Color)
+comment1.params=description
+comment1.target=Dot(java.lang.String)
+comment2.params=u\ v
+comment2.target=boolean\ on(double,\ double)
+comment3.params=dx\ dy
+comment3.target=void\ moveBy(double,\ double)
+comment4.params=
+comment4.target=void\ redraw()
+comment5.params=changeWd\ changeHt
+comment5.target=void\ resize(double,\ double)
+comment5.text=\ [Completion]\ Changes\ the\ width\ and\ height\ of\ the\ shape\ by\ the\r\n\ \ specified\ amounts.\r\n\ \ The\ amounts\ may\ be\ negative,\ which\ means\ that\ the\ shape\r\n\ \ should\ get\ smaller,\ at\ least\ in\ that\ direction.\r\n\ \ The\ shape\ should\ never\ become\ smaller\ than\ 1\ pixel\ in\ width\ or\ height\r\n\ \ The\ center\ of\ the\ shape\ should\ remain\ the\ same.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\ Returns\ a\ string\ description\ of\ the\ oval\ in\ a\ form\ suitable\ for\r\n\ \ writing\ to\ a\ file\ in\ order\ to\ reconstruct\ the\ oval\ later\r\n\ \ The\ first\ word\ of\ the\ string\ must\ be\ Oval\ \r\n
+numComments=7

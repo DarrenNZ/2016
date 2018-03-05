@@ -1,0 +1,22 @@
+Questions for reflection.
+=========================
+
+
+1. Did you do any online practice questions this week? If yes, which topics did
+you look at and why?
+
+NO, i have been doing alot of coding bat in preperation for the course tho.
+
+2. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+
+the .color before the actual color in the assi one got me for quite awhile. But i guess the main thing is proof reading and making sure all the basic things are squared away.
+
+3. What is one thing that you did in this assignment that is similar to previous
+ones (for assignment one this can include work you did before starting at Vic)?
+Was it easier this time? How did you approach doing it?
+
+4. If you have any other thoughts about the assignment please write them here.
+
+None really, i guess from the info major we did quite abit of mark up languages which i guess when using java to do shapes and colors, is faily similar.

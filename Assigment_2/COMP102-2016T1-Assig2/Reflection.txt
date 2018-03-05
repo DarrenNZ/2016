@@ -1,0 +1,29 @@
+Questions for reflection.
+=========================
+
+
+1. Did you do any online practice questions this week? If yes, which topics did
+you look at and why?
+
+NO, ive been using coding bat to build my java skills, otherwise i feel that and the tut exercises are enough work.
+
+2. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+
+Doing the Arc on the symbol drawer was quite difficlut, i forgot to put in a double and kept on giving me an error for quite awhile untill
+i realised why, also the angle and start points of the arc were quite difficult to get my heard around.
+
+3. What is one thing that you did in this assignment that is similar to previous
+ones? Was it easier this time? How did you approach doing it?
+
+Nothing, it was different. I did struggle on some parts but i have definatly learnt alot which is great! :)
+
+4. If you have any other thoughts about the assignment please write them here.
+
+I would like to have done the challanges this week but i realsied i had to study for my other subjects. 
+ 
+
+Cheers
+Darren Carroll
+300301318

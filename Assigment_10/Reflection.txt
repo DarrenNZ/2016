@@ -1,0 +1,27 @@
+Questions for reflection.
+=========================
+
+
+1. Did you do any online practice questions this week? If yes, which topics did
+you look at and why?
+
+no, the assisgemnt was quite large i thought, so i spent most of my time doing that, 
+although i did go through some android java videos on youtube to help me get an understanding
+of how applications work, which was really helpful.
+
+2. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+
+I had abit of a brain fade with the drawDrawing method, i had mispelt the variable
+so started overthinking the problem to try and fix it, ended up by talking to someone in a
+lecturer who was able to point me back ontrack.
+
+3. What is one thing that you did in this assignment that is similar to previous
+ones? Was it easier this time? How did you approach doing it?
+
+i would was all of it, the only different aspects was the interface Shape that we used.
+
+4. If you have any other thoughts about the assignment please write them here.
+
+Great paper!! i have learnt so much :)

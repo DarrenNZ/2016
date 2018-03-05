@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ milesToKilometers()
+comment0.text=Convert\ from\ miles\ to\ kilometers
+comment1.params=
+comment1.target=void\ triangleArea()
+comment1.text=\ Calculate\ area\ of\ triangle\r\n
+comment2.params=
+comment2.target=void\ gramsToOunces()
+comment2.text=\ Convert\ from\ grams\ to\ ounces\r\n
+comment3.params=
+comment3.target=void\ surfaceAreaOfSphere()
+comment3.text=Compute\ surface\ of\ a\ sphere
+comment4.params=
+comment4.target=void\ kelvinToFahrenheit()
+comment4.text=Convert\ from\ kelvin\ to\ fahrenheit\ t
+comment5.params=
+comment5.target=void\ costOfPeppers()
+comment5.text=Compute\ cost\ of\ order\ of\ peppers
+comment6.params=
+comment6.target=CalculatorExercise()
+comment6.text=Constructor\:\ set\ up\ the\ user\ interface\ and\ buttons
+numComments=7
